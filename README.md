@@ -2,19 +2,19 @@
 <p>HTML and CSS course for the development of a website for the product Google Glass.</p>
 
 ## Home page
-<img src="https://cnt-05.content-na.drive.amazonaws.com/cdproxy/templink/usVRUtG0JCu0sPa_CTwPm4HejJ36VpFEZVbRFocouCEeJxFPc?viewBox=1351%2C673" alt="indexpage">
+<img src="https://live.staticflickr.com/65535/50417094262_4298fabea1_c.jpg" alt="indexpage">
 
 ## Specifications page
-<img src="https://cnt-05.content-na.drive.amazonaws.com/cdproxy/templink/dHYXiF_Dw61jbfHqB8bfYdseeK_Yw3YwyCWz2s3JVxAeJxFPc?viewBox=1351%2C673" alt="especspage">
+<img src="https://live.staticflickr.com/65535/50416231403_18d1675d69_c.jpg" alt="especspage">
 
 ## Photo Page
-<img src="https://cnt-05.content-na.drive.amazonaws.com/cdproxy/templink/q00bpvPDCkFjmKT-ka_KH1GsW8DAIEoF2o91dJzpW0YeJxFPc?viewBox=868%2C674" alt="photosspage">
+<img src="https://live.staticflickr.com/65535/50416230693_9257a67fdb_c.jpg" alt="photosspage">
 
 ## Video and audio page
-<img src="https://cnt-05.content-na.drive.amazonaws.com/cdproxy/templink/29YBgVvhbYCj2idQqWYxNmIrb1jdkCoxAeLRsqxynNUeJxFPc?viewBox=932%2C683" alt="especspage">
+<img src="https://live.staticflickr.com/65535/50417087352_72c3012d5c_c.jpg[/img]" alt="especspage">
 
 ## Contact page
-<img src="https://cnt-05.content-na.drive.amazonaws.com/cdproxy/templink/BdUs1hLS4zs9oypqN8SKZ5usnKsXnMmld64qeSM9d5YeJxFPc?viewBox=1351%2C673" alt="especspage">
+<img src="https://live.staticflickr.com/65535/50417085797_5fe10e6fc0_c.jpg" alt="especspage">
 
 ## Meta
 Luan Oliveira – [LinkedIn](https://www.linkedin.com/in/luan-oliveira-713159198/) – lpablo611@gmail.com - [Github](https://github.com/Luanpablo100)
